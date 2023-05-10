@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm JV.</h1>
+<p align="center">I do web development.</p>
 
-<!--
-**JVPH/JVPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Languages and Technologies</h2>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,tailwind,postgres,mysql,prisma" alt="TypeScript, Nextjs, React, Express, Node.js, Tailwind,Postgres, Prisma" />
+    <img src="https://skillicons.dev/icons?i=mongodb,linux,vscode" alt="MongoDB,Linux,VSCode" />    
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Stats</h2>
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=JVPH&theme=vue-dark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=stars,issues,prs&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVPH&langs_count=2&layout=compact&theme=vue-dark&count_private=true&hide_border=true&line_height=24&bg_color=0d1117" alt="Top Langs">
+</a></p>
