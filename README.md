@@ -4,7 +4,7 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs, python, express, flask, react,tailwind,postgres" alt="TypeScript, Node.js, Express, React, Tailwind, Postgres, Python, Flask" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,python,express,flask,react,tailwind,postgres" alt="TypeScript, Node.js, Express, React, Tailwind, Postgres, Python, Flask" />
     <img src="https://skillicons.dev/icons?i=mongodb,linux,vscode" alt="MongoDB,Linux,VSCode" />    
   </a>
 </p>
