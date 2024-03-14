@@ -11,8 +11,6 @@
 
 <h2 align="center">Stats</h2>
 <p align="center"><a href="#">
-    <div>
-      ![JVPH's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVPH&langs_count=2&layout=compact&theme=vue-dark&count_private=true&hide_border=true&line_height=24&bg_color=0d1117" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Most used languages" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVPH&langs_count=2&layout=compact&theme=vue-dark&count_private=true&hide_border=true&line_height=24&bg_color=0d1117" alt="Top Langs"> -->
 </a></p>
