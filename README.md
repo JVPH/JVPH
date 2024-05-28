@@ -1,4 +1,4 @@
-<h1 align="center"><img width="80%" alt="Hello, I'm Jesus. I do software development!" src="./assets/gh-readme-header.png" /></h1>
+<h1 align="center"><img width="80%" alt="Hello, I'm Jesus. I do software development!" src="./assets/gh-header.png" /></h1>
 
 <div align="center">
 <h4>Programming languages</h4>
