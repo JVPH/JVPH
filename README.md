@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/badge/-Flask-lightgreen?style=for-the-badge&logo=flask&labelColor=grey&logoColor=white" alt="Flask Badge">
 <img src="https://img.shields.io/badge/-Django-lightgrey?style=for-the-badge&logo=django&labelColor=grey&logoColor=white" alt="Django Badge">
 <img src="https://img.shields.io/badge/-Express.js-brightgreen?style=for-the-badge&logo=express&labelColor=grey&logoColor=white" alt="Express.js Badge">
-<img src="https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js&labelColor=grey&logoColor=white" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=grey&logoColor=white" alt="React.js Badge">
 <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&labelColor=grey&logoColor=white" alt="Next.js Badge">
 
-
+<h4>Runtimes</h4>
+<img src="https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js&labelColor=grey&logoColor=white" alt="Node.js Badge">
 
 <h4>Databases</h4>
 <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&labelColor=grey&logoColor=white" alt="PostgreSQL Badge">
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&labelColor=grey&logoColor=white" alt="Docker Badge">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=grey&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&labelColor=grey&logoColor=white" alt="GitHub Actions Badge">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 
 </div>
 
